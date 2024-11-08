@@ -278,7 +278,7 @@ void printWelcomeMessage() {
 }
 
 void displayMenu() {
-  print("1. Add Regular Book");
+  print("\n1. Add Regular Book");
   print("2. Add TextBook");
   print("3. Remove Book");
   print("4. Search by Title");
